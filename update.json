@@ -2,7 +2,7 @@
   "latestVersion": "1.0.1.2",
   "apkUrl": "https://github.com/IHNEL/SE/releases/download/1.0.1/SleepEngine_1.0.1.2.apk",
   "apkSize": 12430987,
-  "releaseNotes": "Bug fixes and performance improvements.",
+  "releaseNotes": "We've made some improvements to enhance your SleepEngine experience",
   "mandatory": false,
   "showReleaseNote": true
 }
