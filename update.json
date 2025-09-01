@@ -1,8 +1,20 @@
 {
-  "latestVersion": "1.0.1.2",
-  "apkUrl": "https://github.com/IHNEL/SE/releases/download/1.0.1/SleepEngine_1.0.1.2.apk",
-  "apkSize": 12430987,
-  "releaseNotes": "We've made some improvements to enhance your SleepEngine experience",
-  "mandatory": false,
-  "showReleaseNote": true
+  "apps": {
+    "engine": {
+      "latestVersion": "1.1.0",
+      "apkUrl": "https://cdn.yourdomain.com/engine/SleepEngine_1.1.0.apk",
+      "releaseNotes": "Improvements to stability and performance",
+      "mandatory": false,
+      "showReleaseNote": true,
+      "checksum": "abc123..."
+    },
+    "controller": {
+      "latestVersion": "1.0.2",
+      "iosUrl": "https://apps.apple.com/app/com.css.sp",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.css.sp",
+      "releaseNotes": "Bug fixes + new features",
+      "mandatory": false,
+      "showReleaseNote": true
+    }
+  }
 }
