@@ -2,7 +2,7 @@
   "apps": {
     "engine": {
       "latestVersion": "1.1.0",
-      "apkUrl": "https://cdn.yourdomain.com/engine/SleepEngine_1.1.0.apk",
+      "apkUrl": "https://updates.sleepengine.com/engine/SleepEngine_1.1.0.apk",
       "releaseNotes": "Improvements to stability and performance",
       "mandatory": false,
       "showReleaseNote": true,
